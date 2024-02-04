@@ -1,6 +1,6 @@
 # PDF-QnA
 
-Using LLM models and PyPDF created a Q and A tool which answers questions asked by the user regarding the PDF. 
+Using LLM models and PyPDF created a Q and A tool which answers questions asked by the user regarding the PDF.
 
 **Requirements:**
 - OpenAI API key (to be embedded in an environment variable)
@@ -11,3 +11,6 @@ Using LLM models and PyPDF created a Q and A tool which answers questions asked 
 **References:**
 - @aksai-shakudo LLMs repository
 - Other Youtube channels and Stackoverflow website
+
+**P.S-**
+   Looking to host this into a web app. 
