@@ -9,7 +9,7 @@ Using LLM models and PyPDF created a Q and A tool which answers questions asked 
 - Questions regarding the input
 
 **References:**
-- @aksai-shakudo LLMs repository
+- @asksai-shakudo LLMs repository
 - Other Youtube channels and Stackoverflow website
 
 **P.S-**
